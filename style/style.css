@@ -67,3 +67,8 @@ background: rgb(82, 195, 3);
 .btn-container{
     text-align: center;
 }
+#card-box{
+    width: 1056px;
+    margin: 50px auto;
+    align-items: center;
+}
